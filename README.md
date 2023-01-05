@@ -15,3 +15,6 @@ Figures below are some of the data visualization of the project:
 ![image](https://user-images.githubusercontent.com/52830408/210823767-f7383579-3321-4f44-85a4-7ffadec79c6a.png)
 
 ![image](https://user-images.githubusercontent.com/52830408/210823850-e5a8dcca-3985-4892-84dd-80a6a278029d.png)
+
+## Data Source
+https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv
