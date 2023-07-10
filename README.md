@@ -1,4 +1,6 @@
 # Covid-19 Data Analysis
+![python](https://img.shields.io/badge/Python-blue) ![pandas](https://img.shields.io/badge/Pandas-green) ![plotly](https://img.shields.io/badge/Plotly-green)
+
 ## What is it?
 This project carried out data analysis of Covid-19 with interactive data visualization, which can help us answer these questions:
 1. How does the global spread of the virus look like?
